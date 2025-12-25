@@ -1,3 +1,7 @@
+// Lien du fichier Tp1 :
+// https://github.com/hanane-kh09/TP-JAVA/tree/main/tp1
+
+
 import java.util.Scanner;
  
 public class Main {
